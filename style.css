@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/eraser-mathematics-ruler-cute-education-pink-powerpoint-background_2a7c11f4da__960_540.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    max-width: 500px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    color: #007bff;
+  }
+  #cal{
+    background-color: rgb(237, 220, 187);
+  }
+  #btn{
+    background-color: rgb(253, 193, 109);
+  }
